@@ -1,0 +1,29 @@
+{
+  "name": "asdfg",
+  "version": "0.1.0",
+  "description": "A new package created with mnp",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "zoroaster test/spec",
+    "test-watch": "zoroaster test/spec --watch"
+  },
+  "files": [
+    "src/"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Sobesednik/asdfg.git"
+  },
+  "keywords": [
+    "mnp"
+  ],
+  "author": "Anton D <anton-d@sobesednik.media>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sobesednik/asdfg/issues"
+  },
+  "homepage": "https://github.com/Sobesednik/asdfg#readme",
+  "devDependencies": {
+    "zoroaster": "0.4.4"
+  }
+}
